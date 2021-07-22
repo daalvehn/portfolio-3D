@@ -1,0 +1,24 @@
+html {
+  background-color: #cfcfcf;
+}
+
+.App {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.App-header {
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin: 2rem;
+  font-weight: 800;
+}
+
+.App-link {
+  color: #61dafb;
+}

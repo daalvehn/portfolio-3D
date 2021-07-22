@@ -1,0 +1,11 @@
+{
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "semi": true,
+  "singleQuote": true,
+  "endOfLine": "lf",
+  "react/prop-types": [
+    "enabled",
+    { "ignore": "ignore", "customValidators": "customValidator" }
+  ]
+}
